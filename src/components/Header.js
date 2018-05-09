@@ -13,7 +13,7 @@ const Header = props => {
 }
 
 Header.propTypes = {
-  players:PropTypes.array.isRequired,
+  players: PropTypes.array.isRequired,
 };
 
 export default Header;
